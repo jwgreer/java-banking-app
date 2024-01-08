@@ -1,4 +1,4 @@
-# CS3230-BankingAppGUI - CS 3230 Yang Zong Final Project
+# CS3230-BankingAppGUI - CS 3230 Dr. Yong Zhang Final Project
 In this project, we will develop the BankingApp into a graphical user interface based Banking application:
 
 ## Software Requirements
